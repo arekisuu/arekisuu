@@ -32,12 +32,8 @@
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)  
   
 ## 📈 Stats
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arekisuu&theme=vue&show_icons=true&line_height=20" />
-</a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu&theme=vue&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎶 Music
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
