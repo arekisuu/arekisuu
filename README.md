@@ -30,13 +30,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)  
-
-  
-  
-  
-  
-  
-  
   
 ## 📈 Stats
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -47,6 +40,5 @@
 </a>
 
 ## Music 🎶
-  
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
 </div>
