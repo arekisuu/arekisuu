@@ -33,4 +33,7 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
   
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu)](https://github.com/anuraghazra/github-readme-stats)  
+
+
 </div>
