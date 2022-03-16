@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arekisuu&theme=swift&show_icons=true&hide=contribs&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arekisuu&theme=swift&show_icons=true&line_height=20" />
 </a>
 
 </div>
