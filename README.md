@@ -39,6 +39,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arekisuu&theme=vue&show_icons=true&line_height=20" />
 </a>
 
-## Music 🎶
+## 🎶 Music
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
 </div>
