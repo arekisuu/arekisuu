@@ -16,24 +16,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🛠️ Tools
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)  
-  
-## 📈 Stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu&theme=vue&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎶 Music
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
-  
-## Test
+## 🛠️ Toolset
   ![Git](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
   ![Hyper](https://img.shields.io/badge/Shell-Hyper-informational?style=flat&logo=hyper&logoColor=white&color=000000)
   ![VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
@@ -45,7 +28,14 @@
   ![Udemy](https://img.shields.io/badge/Education-Udemy-informational?style=flat&logo=udemy&logoColor=white&color=A435F0)
   ![freeCodeCamp](https://img.shields.io/badge/Education-freeCodeCamp-informational?style=flat&logo=freecodecamp&logoColor=white&color=0A0A23)
   ![ESLint](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=4B32C3)
-  ![LibreOffice](https://img.shields.io/badge/Office-LibreOffice-informational?style=flat&logo=libre-office&logoColor=white&color=18A303)
+  ![LibreOffice](https://img.shields.io/badge/Office-LibreOffice-informational?style=flat&logo=libreoffice&logoColor=white&color=18A303)
   ![Chrome](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=4285F4)
+  ![Postman](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
+  
+## 📈 Stats
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu&theme=vue&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎶 Music
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
   
 </div>
