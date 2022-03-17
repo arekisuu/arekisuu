@@ -35,8 +35,7 @@
   ![Udemy](https://img.shields.io/badge/Education-Udemy-informational?style=flat&logo=udemy&logoColor=white&color=A435F0)
   
 ## 📈 Stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu&theme=codeSTACKr&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arekisuu&" alt="arekisuu"/>[![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arekisuu)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu&theme=graywhite&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎶 Music
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
