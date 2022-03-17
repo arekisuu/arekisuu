@@ -22,8 +22,7 @@
 ## 🛠️ Toolset
   ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
   ![Chrome](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=4285F4)
-  ![VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-  ![Atom](https://img.shields.io/badge/IDE-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
+  ![Atom](https://img.shields.io/badge/IDE-Atom-informational?style=flat&logo=atom&logoColor=white&color=a2db94)
   ![Hyper](https://img.shields.io/badge/Shell-Hyper-informational?style=flat&logo=hyper&logoColor=white&color=000000)
   ![Git](https://img.shields.io/badge/SCM-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
   ![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
