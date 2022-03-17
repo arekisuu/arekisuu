@@ -34,6 +34,19 @@
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
   
 ## Test
+  ![Git](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+  ![Hyper](https://img.shields.io/badge/Shell-Hyper-informational?style=flat&logo=hyper&logoColor=white&color=000000)
+  ![VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+  ![Atom](https://img.shields.io/badge/IDE-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
   ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
-
+  ![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
+  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+  ![Photoshop](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)
+  ![Udemy](https://img.shields.io/badge/Education-Udemy-informational?style=flat&logo=udemy&logoColor=white&color=A435F0)
+  ![MDN](https://img.shields.io/badge/Education-MDN Web Docs-informational?style=flat&logo=mdn-web-docs&logoColor=white&color=000000)
+  ![freeCodeCamp](https://img.shields.io/badge/Education-freeCodeCamp-informational?style=flat&logo=freecodecamp&logoColor=white&color=0A0A23)
+  ![ESLint](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=4B32C3)
+  ![LibreOffice](https://img.shields.io/badge/Office-LibreOffice-informational?style=flat&logo=libre-office&logoColor=white&color=18A303)
+  ![Chrome](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=4285F4)
+  
 </div>
