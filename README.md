@@ -17,7 +17,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🌱 I’m currently learning **REST APIs, Authentication & React**
+🌱 I’m currently learning **REST APIs, Authentication & React**
 
 ## 🛠️ Toolset
   ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
