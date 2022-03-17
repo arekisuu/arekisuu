@@ -34,6 +34,6 @@
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
   
 ## Test
-  ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=#0078D6)
+  ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 
 </div>
