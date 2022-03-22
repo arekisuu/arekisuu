@@ -22,7 +22,7 @@
 ## 🛠️ Toolset
   ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
   ![Chrome](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=4285F4)
-  ![Atom](https://img.shields.io/badge/IDE-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
+  ![VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
   ![Hyper](https://img.shields.io/badge/Shell-Hyper-informational?style=flat&logo=hyper&logoColor=white&color=000000)
   ![Git](https://img.shields.io/badge/SCM-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
   ![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
@@ -35,6 +35,11 @@
   
 ## 📈 Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu&theme=graywhite&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+- uses: Platane/snk@master
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    gif_out_path: dist/github-snake.gif
+    svg_out_path: dist/github-snake.svg
 
 ## 🎶 Music
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
