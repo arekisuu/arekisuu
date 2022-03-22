@@ -35,11 +35,6 @@
   
 ## 📈 Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu&theme=graywhite&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-- uses: Platane/snk@master
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    gif_out_path: dist/github-snake.gif
-    svg_out_path: dist/github-snake.svg
 
 ## 🎶 Music
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ee3cefz4zbqsbiabdy5pjob5&unique={true|1|on|yes})
