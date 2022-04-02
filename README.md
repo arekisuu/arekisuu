@@ -3,7 +3,7 @@
 # Hi 👋, I'm Alex</h1>
 ### A passionate coding student</h3>
 
-## 📚 Stack
+## 📚 Stack & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,22 +16,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-🌱 I’m currently learning **REST APIs, Authentication & React**
-
-## 🛠️ Toolset
-  ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
-  ![Chrome](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=4285F4)
-  ![VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-  ![Hyper](https://img.shields.io/badge/Shell-Hyper-informational?style=flat&logo=hyper&logoColor=white&color=000000)
-  ![Git](https://img.shields.io/badge/SCM-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-  ![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
-  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
-  ![ESLint](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=4B32C3)
-  ![Postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
-  ![Photoshop](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)
-  ![LibreOffice](https://img.shields.io/badge/Office-LibreOffice-informational?style=flat&logo=libreoffice&logoColor=white&color=18A303)
-  ![Udemy](https://img.shields.io/badge/Education-Udemy-informational?style=flat&logo=udemy&logoColor=white&color=A435F0)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   
 ## 📈 Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekisuu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekisuu&theme=graywhite&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
